@@ -1,0 +1,26 @@
+# Don't copy frontend into Docker image
+frontend/
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local env (API keys should be set via Railway env vars)
+.env
+
+# Git
+.git/
+.gitignore
+
+# Windows scripts (not needed in container)
+*.bat
+
+# Docs
+README.md
+
+# Output videos (not baked in)
+output/*.mp4
+output/temp_*/
