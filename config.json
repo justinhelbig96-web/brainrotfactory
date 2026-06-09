@@ -1,0 +1,45 @@
+{
+  "story": {
+    "provider": "openai",
+    "model": "gpt-4o-mini",
+    "max_tokens": 600,
+    "temperature": 0.9
+  },
+  "voice": {
+    "provider": "elevenlabs",
+    "default_voice_id": "pNInz6obpgDQGcFmaJgB",
+    "language": "de",
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "model_id": "eleven_multilingual_v2"
+  },
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "output_format": "mp4",
+    "video_codec": "libx264",
+    "crf": 23,
+    "preset": "fast"
+  },
+  "subtitles": {
+    "default_style": "tiktok",
+    "words_per_line": 4,
+    "min_display_time": 0.5
+  },
+  "audio": {
+    "music_volume": 0.15,
+    "sfx_volume": 0.5,
+    "voice_volume": 1.0,
+    "audio_bitrate": "192k"
+  },
+  "output": {
+    "directory": "output",
+    "filename_prefix": "brainrot",
+    "keep_temp_files": false
+  },
+  "queue": {
+    "max_concurrent_jobs": 1,
+    "job_history_limit": 50
+  }
+}

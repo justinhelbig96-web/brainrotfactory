@@ -1,0 +1,18 @@
+Lege hier deine Hintergrundvideos ab.
+
+Unterstützte Formate: .mp4, .mov, .avi, .mkv, .webm
+
+Empfohlene Clips (eigene Aufnahmen oder lizenzfreies Material):
+  - Minecraft Parkour
+  - Subway Surfers
+  - GTA Gameplay
+  - Satisfying Videos
+  - etc.
+
+Du kannst auch Unterordner für Kategorien anlegen:
+  backgrounds/minecraft/
+  backgrounds/gta/
+  backgrounds/horror/
+  backgrounds/lustig/
+
+WICHTIG: Nur Clips verwenden, an denen du die Rechte hast!

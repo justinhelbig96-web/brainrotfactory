@@ -1,0 +1,11 @@
+Lege hier deine Hintergrundmusik ab.
+
+Unterstützte Formate: .mp3, .wav, .ogg, .m4a
+
+Empfehlung: Royalty-free Lofi / Chill Beats
+Quellen:
+  - https://pixabay.com/music/
+  - https://freemusicarchive.org/
+  - https://www.bensound.com/
+
+Lautstärke wird automatisch auf 15% reduziert (konfigurierbar in config.json).

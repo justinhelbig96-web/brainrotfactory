@@ -1,0 +1,4 @@
+Fertige Videos werden hier gespeichert.
+
+Format: brainrot_YYYYMMDD_HHMMSS_Idee.mp4
+Auflösung: 1080x1920 (9:16 TikTok-Format)

@@ -1,0 +1,14 @@
+Lege hier deine Soundeffekte ab.
+
+Unterstützte Formate: .mp3, .wav, .ogg
+
+Beispiele:
+  - whoosh.mp3      (Übergang)
+  - impact.mp3      (Schock-Moment)
+  - notification.mp3 (iPhone-Sound)
+
+Quellen:
+  - https://freesound.org/
+  - https://pixabay.com/sound-effects/
+
+SFX-Einbindung ist in Version 1 vorbereitet, wird in Version 2 vollständig implementiert.
